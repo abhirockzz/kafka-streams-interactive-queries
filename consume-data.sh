@@ -1,0 +1,1 @@
+docker run -i --net=confluent --rm confluentinc/cp-kafka kafka-console-consumer --bootstrap-server kafka:9092 --topic cpu-metrics-topic --property print.key=true

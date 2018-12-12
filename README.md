@@ -1,4 +1,8 @@
-Practical example for Interactive Queries feature in Kafka Streams. It covers the DSL API and how the state store information was exposed via a REST service. Everything is setup using Docker including Kafka, Zookeeper, the stream processing services as well as the producer app
+Practical example for Interactive Queries feature in Kafka Streams. It covers the DSL API and how the state store information was exposed via a REST service. 
+
+For details [check this blog](https://medium.com/@abhishek1987/kafka-streams-interactive-queries-9a05ff92d75a)
+
+Everything is setup using Docker including Kafka, Zookeeper, the stream processing services as well as the producer app
 
 Here are the key components
 
